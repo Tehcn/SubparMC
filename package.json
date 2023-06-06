@@ -1,0 +1,14 @@
+{
+  "name": "subparmc",
+  "version": "1.0.0",
+  "description": "Modern Minecraft server software",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "nodemon src/index.ts"
+  },
+  "author": "Noah Perry",
+  "license": "MIT",
+  "dependencies": {
+    "zeromq": "^6.0.0-beta.16"
+  }
+}
